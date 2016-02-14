@@ -1,0 +1,58 @@
+c:\users\jimm_ydi\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+c:\users\jimm_ydi\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+c:\users\jimm_ydi\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\jimm_ydi\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form1.resources
+c:\users\jimm_ydi\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\jimm_ydi\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\jimm_ydi\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\jimm_ydi\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+c:\users\jimm_ydi\documents\visual studio 2010\Projects\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb
+H:\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+H:\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb
+H:\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+H:\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+H:\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form1.resources
+H:\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Properties.Resources.resources
+H:\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\大学各种课\大三下\电子工程设计\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+E:\大学各种课\大三下\电子工程设计\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb
+E:\大学各种课\大三下\电子工程设计\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+E:\大学各种课\大三下\电子工程设计\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+E:\大学各种课\大三下\电子工程设计\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\大学各种课\大三下\电子工程设计\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form1.resources
+E:\大学各种课\大三下\电子工程设计\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Properties.Resources.resources
+E:\大学各种课\大三下\电子工程设计\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\大学各种课\大三下\电子工程设计\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\上位机+下位机\上位机\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+H:\上位机+下位机\上位机\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form1.resources
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Properties.Resources.resources
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form1.resources
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Properties.Resources.resources
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版 2\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版 2\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版 2\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版 2\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Form1.resources
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版 2\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.Properties.Resources.resources
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版 2\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版 2\WindowsFormsApplication7\WindowsFormsApplication7\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版 2\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+E:\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\正式版 2\WindowsFormsApplication7\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+H:\HT 320G 0004843\E\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\电子工程设计——上位机\上位机代码\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.exe
+H:\HT 320G 0004843\E\大学各种课\大三下\电子工程设计\下位机+上位机\上位机\电子工程设计——上位机\上位机代码\WindowsFormsApplication7\obj\x86\Debug\WindowsFormsApplication7.pdb
